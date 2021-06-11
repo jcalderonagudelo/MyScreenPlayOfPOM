@@ -1,0 +1,4 @@
+com/guru99/demo/runners/RegisterNewUserRunner.java
+ com.guru99.demo.runners.RegisterNewUserRunner
+com/guru99/demo/stepdefinitions/RegisterNewUserStepDefinition.java
+ com.guru99.demo.stepdefinitions.RegisterNewUserStepDefinition

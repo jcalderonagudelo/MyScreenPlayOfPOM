@@ -1,0 +1,12 @@
+com/guru99/demo/userinterface/Guru99DemoHomePage.java
+ com.guru99.demo.userinterface.Guru99DemoHomePage
+com/guru99/demo/tasks/GoToRegister.java
+ com.guru99.demo.tasks.GoToRegister
+com/guru99/demo/userinterface/Guru99DemoRegisterPage.java
+ com.guru99.demo.userinterface.Guru99DemoRegisterPage
+com/guru99/demo/tasks/GoTo.java
+ com.guru99.demo.tasks.GoTo
+com/guru99/demo/userinterface/Guru99DemoHomeNewToursPage.java
+ com.guru99.demo.userinterface.Guru99DemoHomeNewToursPage
+com/guru99/demo/tasks/OpenTheBrowser.java
+ com.guru99.demo.tasks.OpenTheBrowser
